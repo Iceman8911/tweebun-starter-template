@@ -28,5 +28,8 @@
     "fs-extra": "^11.3.0",
     "sass-embedded": "^1.85.0"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "trustedDependencies": [
+    "@parcel/watcher"
+  ]
 }
